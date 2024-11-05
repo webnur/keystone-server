@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\projects\\fiverr-project\\education-server\\logs\\winston\\errors\\.0a1928e916c20809af05de41c06f04ec90db60d8-audit.json",
+    "files": [
+        {
+            "date": 1730739205807,
+            "name": "C:\\projects\\fiverr-project\\education-server\\logs\\winston\\errors\\education-2024-04-11-22-error.log",
+            "hash": "a7bf7a7ecabf61e2d371768d865f76cbff6a1e98f97abbf570d7748bc0af513b"
+        },
+        {
+            "date": 1730771417982,
+            "name": "C:\\projects\\fiverr-project\\education-server\\logs\\winston\\errors\\education-2024-05-11-07-error.log",
+            "hash": "ec93b1fd23e0d131901d6843fae22af394ae7dda0dcdaa302cab2823f4c3388d"
+        },
+        {
+            "date": 1730772897102,
+            "name": "C:\\projects\\fiverr-project\\education-server\\logs\\winston\\errors\\education-2024-05-11-08-error.log",
+            "hash": "2b7d70f989add785f9bcf320afa1b5682eb032ec0d350080b5188a87e86239dc"
+        }
+    ],
+    "hashType": "sha256"
+}
